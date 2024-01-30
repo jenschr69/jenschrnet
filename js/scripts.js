@@ -7,3 +7,5 @@
 // Assign classes for navigation to mark which (sub) page the user is on using the class w3-teal?
 
 // Adding aria classes for the current page
+
+// Chek out window loacation function......
