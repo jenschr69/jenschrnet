@@ -1,1 +1,0 @@
-// The script in this file, will add the Google Tag Manager JavaScript code to the head and body tag of our website.
